@@ -5,6 +5,15 @@ An AI-powered React Native comic storytelling app that generates fun, interactiv
 Built with ❤️ using React Native (Expo) + Backend API integration.
 
 
+## 📸 App Preview
+
+<p align="center">
+  <img src="assets/screenshots/home.png" width="300">
+  <img src="assets/screenshots/chatinterface.png" width="300">
+  <img src="assets/screenshots/Garfeild_AI.png" width="300">
+</p>
+
+
 
 
 ---
