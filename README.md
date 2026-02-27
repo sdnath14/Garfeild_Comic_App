@@ -51,6 +51,3 @@ Built with ❤️ using React Native (Expo) + Backend API integration.
 - Expo CLI
 - iOS Simulator
 
----
-
-## 📂 Project Structure
