@@ -8,9 +8,10 @@ Built with ❤️ using React Native (Expo) + Backend API integration.
 ## 📸 App Preview
 
 <p align="center">
-  <img src="assets/screenshots/home.png" width="300">
-  <img src="assets/screenshots/chatinterface.png" width="300">
-  <img src="assets/screenshots/Garfeild_AI.png" width="300">
+  <img src="assets/screenshots/home.png" width="200">
+  <img src="assets/screenshots/chatinterface.png" width="200">
+  <img src="assets/screenshots/Garfeild_AI.png" width="200">
+  <img src="assets/screenshots/comic.png" width="200">
 </p>
 
 
